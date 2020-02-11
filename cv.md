@@ -4,7 +4,7 @@
 
 3. I want to study JavaScript for develop  interesting applications.
 
-4. HTML, CSS, JavaScript, NPM, SASS/LESS, Git, Adobe Photoshop. 
+4. HTML, CSS, JavaScript, NPM, SASS/LESS, Git, Adobe Photoshop. Also i can work with SQL, Java.
 
 5. Code exapmles: you can find in my [githhub account](https://github.com/alex-2719) in the future. 
 
@@ -12,7 +12,7 @@
 
 7. HTML Academy (free cources)
 
-8. English level is A2.
+8. English level is A2-B1.
 
 
 
